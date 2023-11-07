@@ -51,7 +51,7 @@ class LoginFormWidget extends StatelessWidget {
           child: ElevatedButton(
             onPressed: () {},
             style: ElevatedButton.styleFrom(
-                minimumSize: Size(double.infinity, 0.065.sh),
+                minimumSize: Size(double.infinity, 0.08.sh),
                 backgroundColor: Colors.purple,
                 foregroundColor: Colors.white),
             child: Text("LOGIN"),

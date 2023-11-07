@@ -65,7 +65,7 @@ class SignupFormWidget extends StatelessWidget {
           onPressed: () {},
           child: Text("SIGNUP"),
           style: ElevatedButton.styleFrom(
-            minimumSize: Size(double.infinity, 0.065.sh),
+            minimumSize: Size(double.infinity, 0.08.sh),
             primary: Colors.purple,
             shape: StadiumBorder(),
           ),
